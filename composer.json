@@ -1,5 +1,5 @@
 {
-    "name": "consoletvs/charts",
+    "name": "omadijaya/charts",
     "description": "The laravel charting package",
     "license": "MIT",
     "type": "library",
@@ -11,8 +11,8 @@
     },
     "authors": [
         {
-            "name": "Èrik Campobadal Forés ",
-            "email": "soc@erik.cat"
+            "name": "Omadi",
+            "email": "ebenk789@gmail.com"
         }
     ],
     "autoload": {
